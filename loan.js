@@ -15,7 +15,7 @@ function loanCalculation (event)
     let approved = `Your Loan is Approved`;
 
     let denied = `No Loan for You`;
-    
+
     if (salary >= 40000)
     {
         if(creditScore >= 600)
